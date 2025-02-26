@@ -1,36 +1,31 @@
-# My Portfolio - Deonshae Robbins
+Hi, I'm D. Robb! 🚀
 
-Welcome to my portfolio repository! This project showcases my skills, experience, and achievements as I transition into a remote IT Tech Support role. The website is designed to provide potential employers with an overview of my professional background, core competencies, and technical abilities.
+Founder of The AI Hustle Blueprint | AI Automation & Monetization Specialist
 
-## Table of Contents
+💡 Passionate about leveraging AI for faceless content creation, automation, and digital business growth. Dedicated to helping creators and entrepreneurs scale their online presence with AI-driven workflows.
 
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [How to View the Portfolio](#how-to-view-the-portfolio)
-- [Contact Information](#contact-information)
+🔥 What I Do
 
-## About
+🚀 AI-Powered Automation – Using n8n, DeepSeek AI, ChatGPT, and other AI tools to build seamless, hands-free workflows for content creation and business automation.
 
-This portfolio is a reflection of my journey from a Process Technician with hands-on experience in operations management, technical troubleshooting, and process optimization to an aspiring IT Tech Support Specialist. The site is structured to highlight the skills and metrics that align with the requirements of the IT support industry.
+🎥 Faceless YouTube & Content Creation – Mastering AI-generated videos, AI voiceovers, and automated editing to scale YouTube channels without ever being on camera.
 
-## Technologies Used
+💰 Digital Monetization – Crafting strategies for affiliate marketing, high-CPM YouTube automation, brand sponsorships, and passive income streams.
 
-- **HTML5:** For structuring the content of the portfolio.
-- **CSS3:** For styling and layout, ensuring the website is visually appealing and user-friendly.
-- **GitHub Pages:** For hosting the website and making it accessible to everyone.
+🧠 AI & Business Strategy – Researching and implementing AI-powered methods to optimize workflow efficiency, productivity, and revenue generation.
 
-## How to View the Portfolio
+🔐 Tech & Cybersecurity Enthusiast – Exploring CompTIA IT, coding, and AI-driven cybersecurity solutions to stay ahead in the evolving tech landscape.
 
-You can view the live portfolio by visiting the following URL:
+🎯 Current Projects & Goals
 
-[https://username.github.io/my-portfolio](https://drobb9219.github.io/my-portfolio)
+🚀 Building fully automated YouTube & social media content systems using AI & no-code tools.
 
-## Contact Information
+🔥 Creating educational content on AI monetization, automation, and digital business growth.
 
-If you have any questions, feedback, or would like to connect, feel free to reach out to me:
+🏆 Helping entrepreneurs launch and scale AI-powered digital businesses with minimal effort.
 
-- **Email:** [robbins.deonshae@outlook.com](mailto:robbins.deonshae@outlook.com)
-- **LinkedIn:** [linkedin.com/in/iamdeonshaerobbins](https://www.linkedin.com/in/iamdeonshaerobbins)
-- **Personal Website:** [iamdeonshaerobbins.com](https://iamdeonshaerobbins.com)
+🔗 Connect With Me
 
-Thank you for visiting my portfolio!
+🌍 YouTube – AI-Powered Business & Automation📌 TikTok – Quick AI Hacks & Monetization Tips📝 Medium – Articles on AI, Business & Digital Hustles
+
+💬 Open to collaborations, contributions, and AI-driven innovation! Let’s build the future of AI content automation together. 🚀
